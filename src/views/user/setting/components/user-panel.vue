@@ -46,7 +46,6 @@
 
 <script lang="ts">
 import { defineComponent, ref } from 'vue'
-import { FileItem } from '@arco-design/web-vue/es/upload/interfaces'
 import { useUserStore } from '@/store'
 
 export default defineComponent({
@@ -79,8 +78,8 @@ export default defineComponent({
         value: userStore.registrationDate,
       },
     ]
-    const fileList = ref<FileItem[]>([file])
-    const uploadChange = (fileItemList: FileItem[], fileItem: FileItem) => {
+    const fileList = ref<any[]>([file])
+    const uploadChange = (fileItemList: any[], fileItem: any) => {
       fileList.value = [fileItem]
     }
     return {
