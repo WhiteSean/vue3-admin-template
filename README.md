@@ -9,29 +9,12 @@
 
 基于arco-design-pro-vue源码魔改而来，Arco Design 是一款由字节跳动出品的让人眼前一亮的 UI 库。
 
-<br />
-
-[![stars](https://img.shields.io/github/stars/chuzhixin/vue-admin-arco?style=flat-square&logo=GitHub)](https://github.com/chuzhixin/vue-admin-arco)
-[![star](https://gitee.com/chu1204505056/vue-admin-arco/badge/star.svg?theme=gray)](https://gitee.com/chu1204505056/vue-admin-arco)
-[![license](https://img.shields.io/github/license/chuzhixin/vue-admin-arco?style=flat-square)](https://en.wikipedia.org/wiki/MIT_License)
-
-</div>
 
 ## 🔗 免费演示地址
 
 - [🚀 Vue Admin Arco 演示地址（vue3.x + vite 4.x + arco-design 2.x 免费版本）](https://vue-admin-beautiful.com/vue-admin-arco)
 
-## 🔗 付费演示地址
 
-- [🚀 Vue Admin Pro 演示地址（vue2.x + element-ui 2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-pro/)
-
-- [🚀 Vue Admin Plus 演示地址（vue3.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/admin-plus/)
-
-- [🚀 Vue Shop Vite 演示地址（vue3.x + vite 5.x + element-plus 2.x 付费版本，支持 PC、平板、手机）](https://vue-admin-beautiful.com/shop-vite/)
-
-- [📌 Vue Admin Pro 及 Vue Admin Plus 购买地址](https://vue-admin-beautiful.com/authorization/)
-
-- [📌 Vue Shop Vite 购买地址](https://vue-admin-beautiful.com/authorization/shop-vite.html)
 
 ## ✨ Features
 
